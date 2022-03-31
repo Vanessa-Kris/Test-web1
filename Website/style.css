@@ -31,10 +31,10 @@ h1.title{
 	display: block;
 	width: 180px;
 	height: 35px;
-	border: 2px solid #fb2274;
+	border: 2px solid #1070a3;
 	line-height: 35px;
 	margin: 25px auto 0;
-	color: #fb2274;
+	color: #1070a3;
 	text-align: center;
 }
 
@@ -58,7 +58,7 @@ h1.title{
 .logo a{
 	font-family: 'Allura', cursive;
 	font-size: 32px;
-	color: #fb2274;
+	color: #22a4fb;
 }
 
 .navbar .navbar_items ul{
@@ -98,7 +98,7 @@ h1.title{
 }
 
 .banner_content h1 span{
-	color: #fb2274;
+	color: #9dd8fa;
 }
 
 /* About us */
@@ -131,7 +131,7 @@ h1.title{
 }
 
 .diff_project_item h3{
-	color: #fb2274;
+	color: #1070a3;
 	margin-bottom: 15px;
 }
 
